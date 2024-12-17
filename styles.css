@@ -1,0 +1,182 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    color: whitesmoke;
+  }
+  
+  .container {
+    width: 80%;
+    max-width: 900px;
+    margin: 20px auto;
+    background: black;
+    color: whitesmoke;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: left;
+  }
+  
+  header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 2.5em;
+    background-color:black;
+    color: yellow;
+  }
+  
+  header p {
+    margin: 5px 0;
+    font-size: 1.1em;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  section h2 {
+    font-size: 1.5em;
+    color: yellowgreen;
+    border-bottom: 2px solid yellowgreen;
+    display: inline-block;
+    margin-bottom: 10px;
+  }
+  
+  section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  section ul li {
+    margin-bottom: 10px;
+  }
+  
+  section ul li h3 {
+    margin: 0;
+    font-size: 1.2em;
+  }
+  
+  .contact p {
+    font-size: 1.1em;
+  }
+  .yashu {
+    background-color: Navy;
+    color:whitesmoke;
+    border-radius: 6px;
+    padding: 10px 25px;
+    font-size:18px;
+    font-weight: bold;
+    }
+    .yashu:hover{
+      background-color: lightblue;
+      color:black;
+      border-radius: 6px;
+      padding: 10px 25px;
+      font-size:18px;
+      font-weight: bold;
+    } 
+      
+  #mad {
+    height: 10px;
+    width: 25px;    
+  }  
+  .name{
+    background-color: black;
+  }
+  .navi{
+    background-color: black;
+  }
+  .emt{
+    background-color: black;
+    height: 15px;
+  }
+  /* home page */
+    .res{
+      background-color: blue;
+    color:whitesmoke;
+    border-radius: 6px;
+    padding: 10px 25px;
+    font-size:18px;
+    font-weight: bold;
+    margin-left: 20px;
+     }
+     .res:hover{
+      background-color: lightblue;
+      color:black;
+      border-radius: 6px;
+      padding: 10px 25px;
+      font-size:18px;
+      font-weight: bold;
+     }
+     .hello{
+      font-size: 25px;
+      margin-top: 220px;
+      margin-left: 20px;
+     }
+     .nam{
+      font-size: 50px;
+      font-weight: bold;
+      margin-top: -55px;
+      margin-left: 20px;
+     }
+     .nam1{
+      color: yellow;
+      font-weight: bolder;
+      
+    }
+    .work{
+      font-size: 45px;
+      font-weight: bold;
+      margin-top: -60px;
+      margin-left: 20px;
+     }
+    
+    .breif{
+      font-size: 22px;
+      margin-left:20px ;
+      margin-top:-50px ;
+    }
+    .profile-circle{
+      margin-left: 1100px;
+      margin-top: -250px;
+    }
+  .yas{
+    margin-top: -400px;
+  }
+  .mw{
+    margin-left: 20px;
+  }
+  .navli{
+    margin-left:800px; 
+    color: navy;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: -70px;;
+  }
+  
+  .ome{
+    color:whitesmoke ; 
+   }
+   .ome:hover{
+    color:yellow
+   }
+.es{
+  margin-left: 30px;
+  color: whitesmoke ;
+}
+.es:hover{
+  color: yellow;
+ }
+.bio{
+  margin-left: 30px;
+  color: whitesmoke;
+}
+.bio:hover{
+  color: yellow;
+ }
